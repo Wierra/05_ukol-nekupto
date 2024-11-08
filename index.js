@@ -49,5 +49,4 @@ cardProduct1.innerHTML = `
 <img class="card-img-top">${elProduct1.image}
 <h2 class="card-title">${elProduct1.name}</h2>
 <p class="card-text">${elProduct1.description}</p>
-<button class="btn btn-lg btn-primary btn-block">${elProduct1.button}</butoon>
-`
+<button class="btn btn-lg btn-primary btn-block">${elProduct1.button}</butoon>`
